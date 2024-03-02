@@ -1,0 +1,14 @@
+C:\Users\vipic\OneDrive\Área de Trabalho\__SENAAI\ControleDeClientes\obj\Debug\net8.0\ControleDeClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipic\OneDrive\Área de Trabalho\__SENAAI\ControleDeClientes\obj\Debug\net8.0\ControleDeClientes.AssemblyInfoInputs.cache
+C:\Users\vipic\OneDrive\Área de Trabalho\__SENAAI\ControleDeClientes\obj\Debug\net8.0\ControleDeClientes.AssemblyInfo.cs
+C:\Users\vipic\OneDrive\Área de Trabalho\__SENAAI\ControleDeClientes\obj\Debug\net8.0\ControleDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\vipic\OneDrive\Área de Trabalho\__SENAAI\ControleDeClientes\bin\Debug\net8.0\ControleDeClientes.exe
+C:\Users\vipic\OneDrive\Área de Trabalho\__SENAAI\ControleDeClientes\bin\Debug\net8.0\ControleDeClientes.deps.json
+C:\Users\vipic\OneDrive\Área de Trabalho\__SENAAI\ControleDeClientes\bin\Debug\net8.0\ControleDeClientes.runtimeconfig.json
+C:\Users\vipic\OneDrive\Área de Trabalho\__SENAAI\ControleDeClientes\bin\Debug\net8.0\ControleDeClientes.dll
+C:\Users\vipic\OneDrive\Área de Trabalho\__SENAAI\ControleDeClientes\bin\Debug\net8.0\ControleDeClientes.pdb
+C:\Users\vipic\OneDrive\Área de Trabalho\__SENAAI\ControleDeClientes\obj\Debug\net8.0\ControleDeClientes.dll
+C:\Users\vipic\OneDrive\Área de Trabalho\__SENAAI\ControleDeClientes\obj\Debug\net8.0\refint\ControleDeClientes.dll
+C:\Users\vipic\OneDrive\Área de Trabalho\__SENAAI\ControleDeClientes\obj\Debug\net8.0\ControleDeClientes.pdb
+C:\Users\vipic\OneDrive\Área de Trabalho\__SENAAI\ControleDeClientes\obj\Debug\net8.0\ControleDeClientes.genruntimeconfig.cache
+C:\Users\vipic\OneDrive\Área de Trabalho\__SENAAI\ControleDeClientes\obj\Debug\net8.0\ref\ControleDeClientes.dll
